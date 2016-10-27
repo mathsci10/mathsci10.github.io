@@ -360,3 +360,21 @@ THIS SOFTWARE IS PROVIDED BY THE ECMA INTERNATIONAL "AS IS" AND ANY EXPRESS OR I
 
 
 ----
+
+For portions of the code that make use of Bootstrap http://getbootstrap.com/
+
+
+
+Designed and built with all the love in the world by 
+<a href="https://twitter.com/mdo">@mdo</a> and 
+<a href=https://twitter.com/fat">@fat</a>.
+Maintained by the <a href="https://github.com/orgs/twbs/people">core team</a> 
+with the help of <a href="https://github.com/twbs/bootstrap/graphs/contributors">our contributors</a>.
+
+Code licensed <a href="https://github.com/twbs/bootstrap/blob/master/LICENSE">MIT</a>, docs  <a href ="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.
+
+
+
+
+
+
